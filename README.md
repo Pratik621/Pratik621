@@ -18,9 +18,8 @@
 ---
 
 ## 👨‍💻 About Me
-Full-Stack JavaScript Developer passionate about building modern and scalable web applications.  
-Hands-on experience with **React, Node.js, MongoDB, HTML, and CSS**.  
-Always eager to learn new technologies and improve user experiences.
+Full Stack Web Developer | Building Responsive & Scalable Web Applications
+Experienced in JavaScript (ES6+), React, Node.js, Express, HTML5, CSS3, and SQL/NoSQL databases. Skilled at creating interactive, efficient, and maintainable web applications with seamless frontend and backend integration.
 
 - 🌍 Location: Pune, India  
 - 💼 Currently: B.Tech in Computer Engineering (Dr. DY Patil College of Engineering and Innovation)  
